@@ -1,0 +1,14 @@
+{
+    "name": "usuario/pixabayapi",
+    "description": "Galería responsive de imágenes de Pixabay con PHP, Guzzle y Tailwind CSS",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^8.2"
+    }
+}
